@@ -1,0 +1,23 @@
+
+
+.container{
+  max-width: 1000px;
+  margin:auto;
+ height: fit-content;
+ box-shadow: 100px;
+ border-radius: 2px;
+  background-color: #61dafb;
+  padding: 3px;
+  display: grid ;
+  
+}
+.search{
+  width: 100%;
+  border-radius: 2%;
+  padding: 5px;
+  
+
+}
+
+
+

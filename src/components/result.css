@@ -1,0 +1,28 @@
+.result{
+    height:fit-content;
+    width: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: azure;
+
+}
+.box{
+  height: 200px;
+  margin: 5px;
+
+}
+.image{
+    width: 100%;
+    height:70%;
+}
+.box-content{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+span{
+    margin-left: 20px;
+}
